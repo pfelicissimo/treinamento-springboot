@@ -6,6 +6,7 @@
  - https://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/
  - https://start.spring.io/
  - https://cli.angular.io/
+ - https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
 
 
 ## Comandos úteis
